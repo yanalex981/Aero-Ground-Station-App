@@ -1,6 +1,8 @@
 ## About
 
-Desktop app used to plot flight paths of the Aero team's plane on the ground. Created with Processing and the library Unfolding for rapid development and simple field maintenance.
+Desktop app used to plot flight paths of the Aero team's plane from a computer on the ground.
+
+Created with Processing and the Unfolding Maps library for rapid development and simple field maintenance.
 
 ## Dependencies
 
